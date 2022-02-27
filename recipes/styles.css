@@ -26,15 +26,15 @@ li {
 }
 .header-two {
     background-color: rgb(255, 174, 0);
-    padding: 30px;
-    border: 20px solid rgb(236, 56, 56);
-    margin: 50px;
-    width: 50px;
+    padding: 20px;
+    border: 10px solid rgb(236, 56, 56);
+    margin-left: 50px;
     height: auto;
-    padding-left: 200px;
-    padding-right: 200px;
+    width: fit-content;
+    box-sizing: border-box;
 }
 
-.mainimg {
+
+#mainimg {
     margin-left: 50px;
 }
