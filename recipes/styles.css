@@ -38,3 +38,12 @@ li {
 #mainimg {
     margin-left: 50px;
 }
+.link,
+button {
+  width: fit-content;
+  background-color: brown;
+}
+.link {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
